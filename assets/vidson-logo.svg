@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" role="img" aria-labelledby="title">
+  <title id="title">VIDSON — Sports Trends</title>
+  <!-- subtle top bar -->
+  <rect x="60" y="18" width="480" height="6" rx="3" fill="#222" opacity="0.08"/>
+
+  <!-- Main wordmark: V in accent color -->
+  <text x="300" y="110" font-family="Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-weight="700" font-size="64" text-anchor="middle" fill="#222">
+    <tspan fill="#CF4A46">V</tspan><tspan>IDSON</tspan>
+  </text>
+
+  <!-- accent underline -->
+  <line x1="80" y1="132" x2="520" y2="132" stroke="#CF4A46" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- descriptor -->
+  <text x="300" y="168" font-family="Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-weight="600" font-size="16" text-anchor="middle" fill="#666">SPORTS TRENDS</text>
+
+</svg>

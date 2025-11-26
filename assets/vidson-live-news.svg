@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title">
+  <title id="title">VIDSON Live News logo</title>
+
+  <!-- outer rounded box -->
+  <rect x="12" y="12" width="876" height="336" rx="14" ry="14" fill="#fff" stroke="#222" stroke-width="6"/>
+
+  <!-- subtle inner padding shadow (top line) -->
+  <rect x="30" y="28" width="840" height="4" rx="2" fill="#000" opacity="0.06"/>
+
+  <!-- Main wordmark with loose tracking to mimic ASCII spacing -->
+  <text x="450" y="140" text-anchor="middle" font-family="Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-weight="700" font-size="64" fill="#111" letter-spacing="28">V I D S O N</text>
+
+  <!-- horizontal rule / divider on left, ending in a dot; then LIVE to the right (accent) -->
+  <line x1="120" y1="182" x2="520" y2="182" stroke="#666" stroke-width="6" stroke-linecap="round" opacity="0.9"/>
+  <circle cx="540" cy="182" r="7" fill="#CF4A46"/>
+  <text x="700" y="188" text-anchor="start" font-family="Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-weight="700" font-size="20" fill="#CF4A46">LIVE</text>
+
+  <!-- descriptor below: NEWS centered -->
+  <text x="450" y="238" text-anchor="middle" font-family="Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-weight="600" font-size="28" fill="#333" letter-spacing="6">NEWS</text>
+
+  <!-- small decorative corners to match box feel (subtle) -->
+  <rect x="28" y="300" width="12" height="12" rx="2" fill="#000" opacity="0.04"/>
+  <rect x="860" y="28" width="12" height="12" rx="2" fill="#000" opacity="0.04"/>
+
+</svg>
